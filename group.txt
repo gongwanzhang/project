@@ -5,10 +5,6 @@ sys:x:3:
 adm:x:4:
 tty:x:5:
 disk:x:6:
-lp:x:7:
-mem:x:8:
-kmem:x:9:
-wheel:x:10:
 cdrom:x:11:
 mail:x:12:postfix
 man:x:15:
